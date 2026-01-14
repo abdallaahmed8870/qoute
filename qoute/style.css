@@ -1,0 +1,22 @@
+.abdo{
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.abdo-1{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    width: 250px;
+    height: 80px;
+    color: white;
+    background: blue;
+}
+button:hover{
+    background-color: green;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
